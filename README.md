@@ -41,9 +41,9 @@ feature-intro
 
 Na toj grani dodajte novu sekciju:
 
-# Uvod
+Uvod
 
-Ja sam Hedija. Živim u Živinicama. Trenutno sam na trećoj godini Fakulteta elektotehnike u Tuzli.
+Napišite 2–3 rečenice o sebi.
 
 Napravite commit i push.
 
@@ -113,4 +113,6 @@ Repozitorij treba sadržavati:
 
 ---
 
-Ovaj repo sadrži moj GitHub zadaću.
+#UVOD
+
+Ja sam Hedija. Živim u Živinicama. Trenutno sam na trećoj godini Fakulteta elektotehnike u Tuzli, na smjeru TK.
