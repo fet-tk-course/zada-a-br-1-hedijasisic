@@ -43,7 +43,7 @@ Na toj grani dodajte novu sekciju:
 
 # Uvod
 
-Ja sam Hedija. Živim u Živinicama. Trenutno sam na trećoj godini Fakulteta elektotehnike u Tuzli, na smjeru TK.
+Ja sam Hedija. Živim u Živinicama. Trenutno sam na trećoj godini Fakulteta elektotehnike u Tuzli.
 
 Napravite commit i push.
 
