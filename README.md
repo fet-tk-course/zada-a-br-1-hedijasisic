@@ -41,9 +41,9 @@ feature-intro
 
 Na toj grani dodajte novu sekciju:
 
-Uvod
+# Uvod
 
-Napišite 2–3 rečenice o sebi.
+Ja sam Hedija. Živim u Živinicama. Trenutno sam na trećoj godini Fakulteta elektotehnike u Tuzli, na smjeru TK.
 
 Napravite commit i push.
 
