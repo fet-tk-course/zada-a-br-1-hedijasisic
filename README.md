@@ -1,12 +1,13 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eAZLlGv8)
 # Git zadaca – branch, pull request & merge conflict
 
 Predmet: Razvoj telekomunikacijske programske podrške
 
 ## Student
 
-Ime i prezime:
+Ime i prezime: Hedija Šišić
 
-GitHub username:
+GitHub username: hedijasisic
 
 ---
 
@@ -65,7 +66,7 @@ conflict-test
 
 U ovom fajlu pronađite sljedeću rečenicu i izmijenite je:
 
-Ovaj repo sadrži moj GitHub zadaću.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
 
 Promijenite je u:
 
@@ -112,4 +113,6 @@ Repozitorij treba sadržavati:
 
 ---
 
-Ovaj repo sadrži moj GitHub zadaću.
+# UVOD
+
+Ja sam Hedija. Živim u Živinicama. Trenutno sam na trećoj godini Fakulteta elektotehnike u Tuzli, na smjeru TK.
